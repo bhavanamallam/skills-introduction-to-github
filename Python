@@ -9,7 +9,7 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 USERNAME = os.getenv("pdjy007@gmail.com")  
 PASSWORD = os.getenv("ubmkqbeoyhycrwbd")  
-TO_EMAIL = "vhemanthsai68@gmail.com"
+TO_EMAIL = "bhavanamallam3@gmail.com"
 def get_python_tip():
     tips = [
         "Tip: Use list comprehensions for concise and readable code.",
@@ -64,7 +64,7 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 USERNAME = os.getenv("pdjy007@gmail.com")  
 PASSWORD = os.getenv("ubmkqbeoyhycrwbd")  
-TO_EMAIL = "vhemanthsai68@gmail.com"
+TO_EMAIL = "bhavanamallam3@gmail.com"
 def get_python_tip():
     tips = [
         "Tip: Use list comprehensions for concise and readable code.",
